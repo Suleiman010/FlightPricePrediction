@@ -1,8 +1,8 @@
-# streamlit run app.py
+
 #conda activate base
 #pip install -U streamlit
 #pip install -U plotly
-#streamlit run app.p
+#streamlit run app.py
 
 
 import streamlit as st
